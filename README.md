@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @nonjee888
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Eunji Roh
+- 👀 I’m interested in excersise, cooking, trying something new
+- 🌱 I’m currently learning React, JavaScript
+- 📫 nonjee888@gmail.com
+
+
 
 <!---
 nonjee888/nonjee888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
