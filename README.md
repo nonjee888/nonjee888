@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eunji Roh
-- 👀 I’m interested in exercise, cooking, trying something new
+- 👀 I’m interested in exercise, outdoor activities, trying something new
 - 🌱 I’m currently learning React, JavaScript
 - 📫 nonjee888@gmail.com
 
